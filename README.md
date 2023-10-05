@@ -41,7 +41,7 @@ gantt
     section 程式測試
     程式修正      :a6,after a4  , 14d
     section 程式修正
-    程式測試      :a7,after a5  , 7d
+    程式測試      :a7,after a6  , 7d
     section 文件統整
     文件統整      :a8,after a7  , 7d
     section 製作簡報
