@@ -41,10 +41,12 @@ gantt
     section 程式測試
     程式修正      :a6,after a4  , 14d
     section 程式修正
-    程式測試      :a7,after a6  , 7d
+    程式測試      :a7,after a6  , 14d
     section 文件統整
-    文件統整      :a8,after a7  , 7d
+    文件統整      :a8,after a2  , 14d
+    section 計畫饌寫
+    計畫撰寫      :a9,after a8 , 35d
     section 製作簡報
-    製作簡報      :a10,after a7 , 14d
+    製作簡報      :a10,after a9 , 21d
 ```
 
