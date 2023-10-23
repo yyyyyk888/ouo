@@ -114,7 +114,7 @@ gantt
 
 # 使用Figma劃出第一個使用案例的動態模擬畫面
 
-https://www.figma.com/proto/VpiOS344NTp0U0bO2etSie/Untitled?type=design&node-id=50-22&t=BOHPzLHzFGMuSLtf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A15&show-proto-sidebar=1
+https://www.figma.com/proto/VpiOS344NTp0U0bO2etSie/Untitled?type=design&node-id=2-15&t=BOHPzLHzFGMuSLtf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A15&show-proto-sidebar=1&mode=design
 
 
 
