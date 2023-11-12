@@ -126,6 +126,8 @@ https://www.figma.com/proto/VpiOS344NTp0U0bO2etSie/Untitled?type=design&node-id=
 
 # UML類別圖
 
+![](UML.png)
+
 # 循序圖與活動圖
 
 # 使用案例一
