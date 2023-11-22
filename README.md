@@ -150,9 +150,17 @@ https://www.figma.com/proto/VpiOS344NTp0U0bO2etSie/Untitled?type=design&node-id=
 
 # 分鏡板
 
+## 使用案例一(提醒事項)
+![]()
+![]()
 
+## 使用案例二(備忘錄)
+![]()
+![]()
 
-
+## 使用案例三(晚餐產生器)
+![]()
+![]()
 
 
 
