@@ -162,6 +162,11 @@ https://www.figma.com/proto/VpiOS344NTp0U0bO2etSie/Untitled?type=design&node-id=
 ![](分鏡板5.png)
 ![](分鏡板6.png)
 
+# ERD
+![](ERD.png)
 
+# 組合實體
+![](組合實體1.png)
+![](組合實體2.png)
 
 
